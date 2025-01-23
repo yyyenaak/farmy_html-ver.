@@ -1,4 +1,4 @@
-# Farmy_html-ver.
+# 🌱 Farmy_html-ver.
 스마트팜 원격제어 시스템 초기 디자인 및 html 제작
 
 ## 🖥️ 프로젝트 소개
@@ -16,7 +16,7 @@
 - 팀원 : 김다솜 - 로그인, 메인 페이지, 상세페이지(팝업), Chat gpt 연동
 
 ## ⚙️ 개발 환경
-- HTML 5, CSS, JS
+### <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 ---
 ## 📌 주요 기능
 #### 로그인
@@ -30,3 +30,5 @@
 - 팝업 디자인
 - 실시간 데이터 송출 디자인
 - ON, OFF 토클
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
